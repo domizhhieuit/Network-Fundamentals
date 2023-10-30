@@ -11,3 +11,7 @@
 - Part 1 : Physical,Data Link,Network: [👉 here](/Network%20Devices/Part%201:%20OSI%20Model%20-%20Physical,Data%20Link,Network/readme.md)
 
 - Part 2 : Transport, Sessions, Persentation [👉 here](/Network%20Devices/Part%202:%20OSI%20Model%20-%20Transport,%20Session,%20Persentation/readme.md)
+
+## Everything host do to speak on the internet
+
+- Part 1 : Description hop to hop [👉 here](/Network%20Devices/Part%201:%20Everything%20hosts%20do%20to%20speak%20on%20the%20internet/readme.md)
