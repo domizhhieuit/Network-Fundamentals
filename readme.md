@@ -15,3 +15,5 @@
 ## Everything host do to speak on the internet
 
 - Part 1 : Description hop to hop [👉 here](/Network%20Devices/Part%201:%20Everything%20hosts%20do%20to%20speak%20on%20the%20internet/readme.md)
+
+- Part 2 : Description host connect to the internet [👉 here](/Network%20Devices/Part%202:%20Everything%20hosts%20do%20to%20speak%20on%20the%20internet/readme.md)
